@@ -21,3 +21,7 @@ https://towardsdatascience.com/implementation-of-multi-variate-linear-regression
 3, use the history of theta(the parameters for this regression model ) and animate 'historical plane' using matplotlib.animation function.
 
 https://brushingupscience.com/2016/06/21/matplotlib-animations-the-easy-way/
+
+
+# reddit discussion
+https://www.reddit.com/r/learnmachinelearning/comments/enleb8/gradient_descent_visualisation_in_linear/
