@@ -1,4 +1,4 @@
-# linear regression
+# use backpropagation to solve linear regression in 3D space
 *linear_regression_closed_form.py* <br/>use linear algebra method to find the best fit model in one shot. 
 
 
